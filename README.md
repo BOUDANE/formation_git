@@ -30,7 +30,15 @@ Le Seigneur des Anneaux est une trilogie de romans de haute fantaisie composée 
 
 ## Les Terres de la Terre du Milieu
 
+<<<<<<< HEAD
 ### Comté
+=======
+
+### La-Franche-Compté
+=======
+### Comté
+ 
+
 
 La Comté est la paisible maison des Hobbits, un lieu de verdure, de confort et de tranquillité. Voici un tableau illustrant la vie paisible des Hobbits :
 
@@ -123,5 +131,10 @@ gimli = Nain("Gimli", "Nain", ["Fort", "Résistant", "Habile avec une hache"])
 ### Gandalf le Gris - Istari
 
 ```python
+class Itari:
+    def__init__(self, nom, pouvoir):
+        self.nom = nom
+        self.pouvoir = pouvoir
 
+gandalf = Istari("Gandalf le Gris", "Magie puissante")
 ```
